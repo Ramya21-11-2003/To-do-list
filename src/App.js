@@ -154,4 +154,4 @@ function App() {
   );
 }
 
-export defa
+export default App;
